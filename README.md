@@ -1,2 +1,2 @@
 # spaneval
-span metrics (precision, recall, f1_score)
+Metrics (precision, recall, f1_score) for span evaluation.
